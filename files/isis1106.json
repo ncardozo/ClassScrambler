@@ -1,0 +1,30 @@
+[
+  {
+    "id": " n.cardozo",
+    "name": "Nicolas Cardozo",
+    "call": true,
+    "skip": true,
+    "guess": false
+  },
+  {
+    "id": " n.cardozo2",
+    "name": "Nicolas Cardozo2",
+    "call": false,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo3",
+    "name": "Nicolas Cardozo3",
+    "call": false,
+    "skip": false,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo4",
+    "name": "Nicolas Cardozo4",
+    "call": true,
+    "skip": true,
+    "guess": true
+  }
+]

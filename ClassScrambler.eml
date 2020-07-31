@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" jdk="1.8" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/out/test/ClassScrambler"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="gson-2.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/gson-2.8.2.jar!/"/>
+	</lib>
+	<lib name="tornadofx-1.7.20.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/tornadofx-1.7.20.jar!/"/>
+	</lib>
+	<levels>
+		<level name="KotlinJavaRuntime" value="project"/>
+	</levels>
+</component>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ecfb0f3-443c-46b9-8715-0f9a8a155dcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fL6TJDyapGxzJ803cuVEhyYRd8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Kotlin.ClassScramblerKt">
+    <configuration name="ClassScrambler" type="JetRunConfigurationType" nameIsGenerated="true">
+      <module name="ClassScrambler" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClassScrambler" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassScramblerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ClassScrambler" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClassScramblerKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ClassScrambler" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClassScrambler" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.ClassScrambler" />
+      <item itemvalue="Kotlin.ClassScramblerKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ClassScramblerKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ecfb0f3-443c-46b9-8715-0f9a8a155dcb" name="Default Changelist" comment="" />
+      <created>1595985031894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595985031894</updated>
+      <workItem from="1595985033297" duration="1192000" />
+      <workItem from="1596068198044" duration="2232000" />
+      <workItem from="1596135601468" duration="4090000" />
+      <workItem from="1596153683157" duration="5225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596136445161">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="0" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1596136445161" />
+    <state x="273" y="348" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596136411478">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="273" y="348" key="#com.intellij.ide.util.TreeClassChooserDialog/-1280.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1596136411478" />
+    <state x="167" y="294" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596154723830">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="167" y="294" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1280.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1596154723830" />
+    <state width="914" height="246" key="GridCell.Tab.0.bottom" timestamp="1596165643795">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="914" height="290" key="GridCell.Tab.0.bottom/-1280.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1596148560872" />
+    <state width="914" height="246" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1596165643795" />
+    <state width="914" height="246" key="GridCell.Tab.0.center" timestamp="1596165643788">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="914" height="290" key="GridCell.Tab.0.center/-1280.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1596148560868" />
+    <state width="914" height="246" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1596165643788" />
+    <state width="914" height="246" key="GridCell.Tab.0.left" timestamp="1596165643786">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="914" height="290" key="GridCell.Tab.0.left/-1280.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1596148560867" />
+    <state width="914" height="246" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1596165643786" />
+    <state width="914" height="246" key="GridCell.Tab.0.right" timestamp="1596165643792">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="914" height="290" key="GridCell.Tab.0.right/-1280.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1596148560872" />
+    <state width="914" height="246" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1596165643792" />
+    <state width="914" height="246" key="GridCell.Tab.1.bottom" timestamp="1596165643797">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="914" height="246" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1596165643797" />
+    <state width="914" height="246" key="GridCell.Tab.1.center" timestamp="1596165643796">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="914" height="246" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1596165643796" />
+    <state width="914" height="246" key="GridCell.Tab.1.left" timestamp="1596165643795">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="914" height="246" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1596165643795" />
+    <state width="914" height="246" key="GridCell.Tab.1.right" timestamp="1596165643796">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="914" height="246" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1596165643796" />
+    <state x="43" y="139" key="SettingsEditor" timestamp="1596135935562">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="43" y="139" key="SettingsEditor/-1280.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1596135935562" />
+    <state x="239" y="366" width="576" height="204" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595985571128">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="239" y="366" width="576" height="204" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1280.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1595985571128" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/db.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="students" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
