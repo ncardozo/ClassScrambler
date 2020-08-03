@@ -1,28 +1,28 @@
 [
   {
     "id": " n.cardozo",
-    "name": "Nicolas Cardozo",
+    "name": "A",
     "call": true,
     "skip": true,
-    "guess": false
+    "guess": true
   },
   {
     "id": " n.cardozo2",
-    "name": "Nicolas Cardozo2",
-    "call": false,
+    "name": "B",
+    "call": true,
     "skip": true,
     "guess": true
   },
   {
     "id": " n.cardozo3",
-    "name": "Nicolas Cardozo3",
-    "call": false,
-    "skip": false,
+    "name": "C",
+    "call": true,
+    "skip": true,
     "guess": true
   },
   {
     "id": " n.cardozo4",
-    "name": "Nicolas Cardozo4",
+    "name": "D",
     "call": true,
     "skip": true,
     "guess": true

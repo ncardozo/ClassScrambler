@@ -1,0 +1,121 @@
+[
+  {
+    "id": " n.cardozo",
+    "name": "A",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo2",
+    "name": "B",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo3",
+    "name": "C",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo4",
+    "name": "D",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo",
+    "name": "Nicolas Cardozo",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo2",
+    "name": "Nicolas Cardozo2",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo3",
+    "name": "Nicolas Cardozo3",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo4",
+    "name": "Nicolas Cardozo4",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo",
+    "name": "Nicolas Cardozo",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " mar-san",
+    "name": "Mario Sanchez",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " aherrera",
+    "name": "Andrea Herrera",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo2",
+    "name": "Nicolas Cardozo2",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " mar-san2",
+    "name": "Mario Sanchez2",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " aherrera2",
+    "name": "Andrea Herrera2",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " n.cardozo3",
+    "name": "Nicolas Cardozo3",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " mar-san3",
+    "name": "Mario Sanchez3",
+    "call": true,
+    "skip": true,
+    "guess": true
+  },
+  {
+    "id": " aherrera3",
+    "name": "Andrea Herrera3",
+    "call": true,
+    "skip": true,
+    "guess": true
+  }
+]

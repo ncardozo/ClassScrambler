@@ -1,3 +1,6 @@
+import javafx.beans.value.ObservableBooleanValue
+import javafx.beans.value.ObservableValue
+
 class Student {
     var id = ""
     var name = ""
@@ -28,5 +31,3 @@ class Student {
         guess = false
     }
 }
-
-class StudentModel

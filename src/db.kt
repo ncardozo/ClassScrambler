@@ -26,14 +26,12 @@ fun saveCourse(course : String, students : List<Student>) {
     gameFile.appendText(gsonPretty.toJson(students))
 }
 
-fun generateDatabase(): Unit {
-        //val In = BufferedReader(InputStreamReader(System.`in`))
-        //print("Enter the file of your class:")
-        val fileName = "isis1106"//In.readLine()!!
+fun generateDatabase(fileName : String): Unit {
         val courseFile = File("./files/$fileName.txt")
         val gameFile = File("./files/$fileName.json")
         val students = mutableListOf<Student>()//MutableList<Student>()
         if (courseFile.exists()) {
+            gameFile.delete()
             gameFile.createNewFile()
             courseFile.forEachLine {
                 val values = it.split(",")
@@ -42,7 +40,6 @@ fun generateDatabase(): Unit {
             }
             val gsonPretty = GsonBuilder().setPrettyPrinting().create()
             gameFile.appendText(gsonPretty.toJson(students))
-
         } else
             print("File not found")
     }
